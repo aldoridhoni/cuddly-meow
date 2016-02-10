@@ -1,2 +1,2 @@
 # cuddly-meow
-Dockerfile for GeoDjango
+Dockerfile for my django development.
